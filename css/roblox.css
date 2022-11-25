@@ -1,0 +1,32 @@
+.body{
+    background-color: rgb(0, 0, 0);
+}
+.letras{
+    text-align: center;
+    color:white
+}
+.btn{
+    background-color: white ;
+    color: black;
+    text-align: center;
+}
+.tww{
+    text-align: center;
+    background-color: rgb(243, 138, 138);
+}
+.bedwars{
+    text-align: center;
+    background-color: rgb(104, 104, 240) ;
+}
+.nic{
+    text-align: center;
+    background-color: rgb(248, 248, 180);
+}
+.tds{
+    text-align: center;
+    background-color: grey;
+}
+.arsenal{
+    text-align: center;
+    background-color: beige;
+}
